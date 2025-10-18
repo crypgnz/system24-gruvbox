@@ -95,7 +95,7 @@ body {
     --bg-2: #ebdbb2; /* dark buttons - Gruvbox Material bg2 */
     --bg-3: #eddeb5; /* spacing, secondary elements - Gruvbox Material bg1 */
     --bg-4: #f2e5bc; /* main background color - Gruvbox Material bg0 */
-    --hover: rgba(235, 219, 178, 0.5); /* channels and buttons when hovered - Gruvbox Material bg2 with transparency */
+    --hover: rgba(227, 211, 173, 0.7); /* channels and buttons when hovered - Gruvbox Material bg2 with transparency */
     --active: rgba(211, 213, 184, 0.75); /* channels and buttons when clicked or selected - Gruvbox Material bg_visual_blue with transparency */
     --active-2: rgba(239, 210, 181, 0.75); /* extra state for transparent buttons - Gruvbox Material bg_visual_red with transparency */
     --message-hover: var(--hover); /* messages when hovered */

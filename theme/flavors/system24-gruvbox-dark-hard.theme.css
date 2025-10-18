@@ -95,7 +95,7 @@ body {
     --bg-2: #282828; /* dark buttons - Gruvbox Material bg1/bg2*/
     --bg-3: #282828; /* secondary/spacing - Gruvbox Material bg1*/
     --bg-4: #1d2021; /* main background color - Gruvbox Material bg0*/
-    --hover: rgba(40, 40, 40, 0.5); /* hover - Gruvbox Material bg1/bg2 with 0.5 opacity */
+    --hover: rgba(61, 61, 61, 0.7); /* hover - Gruvbox Material bg1/bg2 with 0.5 opacity */
     --active: rgba(46, 59, 59, 0.75); /* active/selected - Gruvbox Material bg_visual_blue (#2e3b3b) with 0.75 opacity*/
     --active-2: rgba(68, 46, 45, 0.75); /* extra state - Gruvbox Material bg_visual_red (#442e2d) with 0.75 opacity*/
     --message-hover: var(--hover); /* messages when hovered */
