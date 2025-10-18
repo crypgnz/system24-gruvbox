@@ -18,9 +18,9 @@ add `https://github.com/crypgnz/system24-gruvbox-theme/main/build/system24.css` 
 
 customized variants of the theme.
 
-- [Gruvbox Material light soft](https://github.com/crypgnz/system24-gruvbox/theme/flavors/system24-light-soft.theme.css)
-- [Gruvbox Material light medium](https://github.com/crypgnz/system24-gruvbox/theme/flavors/system24-light-medium.theme.css)
-- [Gruvbox Material light hard](https://github.com/crypgnz/system24-gruvbox/theme/flavors/system24-light-hard.theme.css)
-- [Gruvbox Material dark soft](https://github.com/crypgnz/system24-gruvbox/theme/flavors/system24-dark-soft.theme.css)
-- [Gruvbox Material dark medium](https://github.com/crypgnz/system24-gruvbox/theme/flavors/system24-dark-medium.theme.css)
-- [Gruvbox Material dark hard](https://github.com/crypgnz/system24-gruvbox/theme/flavors/system24-dark-hard.theme.css)
+- [Gruvbox Material light soft](https://github.com/crypgnz/system24-gruvbox/blob/main/theme/flavors/system24-gruvbox-light-soft.theme.css)
+- [Gruvbox Material light medium](https://github.com/crypgnz/system24-gruvbox/blob/main/theme/flavors/system24-gruvbox-light-medium.theme.css)
+- [Gruvbox Material light hard](https://github.com/crypgnz/system24-gruvbox/blob/main/theme/flavors/system24-gruvbox-light-hard.theme.css)
+- [Gruvbox Material dark soft](https://github.com/crypgnz/system24-gruvbox/blob/main/theme/flavors/system24-gruvbox-dark-soft.theme.css)
+- [Gruvbox Material dark medium](https://github.com/crypgnz/system24-gruvbox/blob/main/theme/flavors/system24-gruvbox-dark-medium.theme.css)
+- [Gruvbox Material dark hard](https://github.com/crypgnz/system24-gruvbox/blob/main/theme/flavors/system24-gruvbox-dark-hard.theme.css)
